@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    max-width: 1920px;
+    margin-left: 375.27px;
+}
+
+.header {
+    padding-top: 40px;
+}
+
+.header__links {
+    padding-top: 11px;
+}
+
+.header__link {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.top__content {
+    margin-top: 164px;
+    margin-bottom: 162px;
+    margin-right: 373px;
+}
+
+.title {
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 17px;
+}
+
+.subtitle {
+    color: #888;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 37px;
+}
+
+.top__logos {
+    margin-top: 97px;
+    margin-bottom: 96px;
+}
+
+.top__logo {
+    margin-top: 97px;
+    margin-bottom: 96px;
+    margin-left: 48px;
+}
